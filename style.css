@@ -17,6 +17,10 @@ border-color: green;
 color: blue;
 }
 
+img {
+width: 25%; height: 25%;
+}
+
 
 .thirddiv{
 background-color: yellow;
@@ -37,8 +41,18 @@ border-color: orange;
 color: black;
 }
 
+table,th,td {
+border: 1px solid black;
+border-collapse: collapse;
+text-align: center;
+
+
+
+
+}
+
 .fifthdiv{
-background-color: blue;
+background-color: white;
 font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 text-align: center;
