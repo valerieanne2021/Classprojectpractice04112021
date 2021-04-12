@@ -1,0 +1,48 @@
+.firstdiv {
+background-color: rgb(185, 65, 65);
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+border-style: dashed;
+border-color: blue;
+color: purple;
+} 
+.seconddiv {
+background-color: orange;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+border-style: dotted;
+border-color: green;
+color: blue;
+}
+
+
+.thirddiv{
+background-color: yellow;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+border-style: groove;
+border-color: violet;
+color: green;
+}
+.fourthdiv{
+background-color: green;
+font-size: 15px;
+font-family: cursive;
+text-align: center;
+border-style: ridge;
+border-color: orange;
+color: black;
+}
+
+.fifthdiv{
+background-color: blue;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+border-style:solid;
+border-color: red;
+color: salmon;
+}
